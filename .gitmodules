@@ -1,0 +1,6 @@
+[submodule "RSA-and-LLL-attacks"]
+	path = RSA-and-LLL-attacks
+	url = https://github.com/mimoo/RSA-and-LLL-attacks.git
+[submodule "cm_factorization"]
+	path = cm_factorization
+	url = https://github.com/crocs-muni/cm_factorization.git
